@@ -1,5 +1,40 @@
 [
   {
+    "title": "এশিয়ান গেমস ব্যাডমিন্টনে প্রাপ্তি হতাশা, 12 বছর পর সিঙ্গলসে পদকহীন ভারত",
+    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/27-09-2026/1200-675-27731650-thumbnail-16x9-sindhu.jpg",
+    "category": "খেলাধুলা",
+    "json_link": "news/20260928102219.json",
+    "published_at": "2026-09-27T10:36:06Z"
+  },
+  {
+    "title": "বিতর্কের আবহে এবার SIR-র একাধিক বদল! কমিশন স্পষ্ট জানিয়ে দিল...",
+    "image": "https://bengali.cdn.zeenews.com/bengali/sites/default/files/2026/09/26/627057-juajajajajaja.png",
+    "category": "জাতীয়",
+    "json_link": "news/20260928102207.json",
+    "published_at": "2026-09-26T00:00:00Z"
+  },
+  {
+    "title": "কলকাতায় আজ পেট্রল-ডিজেলের দাম কত? ফের বাড়ল কি জ্বালানির দর, আন্তর্জাতিক বাজারে তেলের দামে বড় নড়াচড়া",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/07/modi-energy-crisis-petrol-pumps-statement.jpg",
+    "category": "বাণিজ্য",
+    "json_link": "news/20260928102153.json",
+    "published_at": "2026-09-28T09:41:17Z"
+  },
+  {
+    "title": "মোদীকে ‘সীতা রাম’ ভজন শোনালেন হনুমান অংশ পরিচালক! প্রধানমন্ত্রী মজলেন ভক্তিরসে",
+    "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/yyyd_1790416796124_dx76_1790416815385_nINo_2a1a40a4-199d-437c-8e45-cea4271c3909_wVIL_1790442988076_nhP1_83ca159b-33f4-4b91-897b-c5fcaada2302_QLyZ.jpg",
+    "category": "বিনোদন",
+    "json_link": "news/20260928102136.json",
+    "published_at": "2026-09-27T02:31:00Z"
+  },
+  {
+    "title": "বোয়িং 737 ম্যাক্সে সফটওয়্যার ত্রুটি! ভারতের ৯৬টি বিমান নিয়ে নতুন সুরক্ষা উদ্বেগ",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/boing.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20260928102122.json",
+    "published_at": "2026-09-28T10:15:55Z"
+  },
+  {
     "title": "West Bengal Live Updates: আঙুল উঁচিয়ে পুলিশকেই হুঁশিয়ারি বহিরাগতদের, পরিস্থিতি তুঙ্গে SRFTI-তে",
     "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/SRFTI-5.jpg",
     "category": "কলকাতা",
@@ -663,40 +698,5 @@
     "category": "জাতীয়",
     "json_link": "news/20260927152119.json",
     "published_at": "2026-09-27T15:15:00Z"
-  },
-  {
-    "title": "৫ মাসে ৬২ লক্ষ LPG সংযোগ কম! রান্নার গ্যাসের গ্রাহক কেন ছাড়ছেন সংযোগ?",
-    "image": "https://i0.wp.com/najarbandi.in/wp-content/uploads/2026/09/lpg-customer-decline-india-2026.webp",
-    "category": "বাণিজ্য",
-    "json_link": "news/20260927142217.json",
-    "published_at": "2026-09-27T06:46:26Z"
-  },
-  {
-    "title": "এসআইআর নেই এমন রাজ্যে নতুন ভোটারদের ফর্ম ৬-এ আর ম্যাপিং লাগবে না",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/sir-states-new-voters-form-6-mapping-declaration-election-commission.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20260927142203.json",
-    "published_at": "2026-09-27T08:07:44Z"
-  },
-  {
-    "title": "গণধর্ষণের পর আত্মঘাতী ছাত্রী! মধ্যরাতে রণক্ষেত্র পঞ্জাবের LPU, ক্যাম্পাসে ২ হাজার পড়ুয়ার তাণ্ডব-ভাঙচুর",
-    "image": "https://bengali.cdn.zeenews.com/bengali/sites/default/files/2026/09/27/627079-lpu-university.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20260927142147.json",
-    "published_at": "2026-09-27T00:00:00Z"
-  },
-  {
-    "title": "এশিয়ান গেমসে আজ ভারতের সামনে সোনার সুযোগ, নজরে অনাহত-অভয়! শুটিংয়ে নামছেন মনু, দেখুন কোন দেশের ঝুলিতে কত পদক",
-    "image": "https://i0.wp.com/najarbandi.in/wp-content/uploads/2026/09/asian-games-2026-day-9-india-anahat-manu-bhaker.webp",
-    "category": "খেলাধুলা",
-    "json_link": "news/20260927142136.json",
-    "published_at": "2026-09-27T08:23:55Z"
-  },
-  {
-    "title": "বারবার দেখা হচ্ছে অস্ট্রেলিয়া-ব্রাজিল ম্যাচের ভিডিও, আনা হচ্ছে ‘বিশেষ ডেটা’, খালিদের দলে চলছে নীল-নকশা তৈরির কাজ",
-    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/09/Untitled-Design-2026-09-27T141716.912.webp",
-    "category": "খেলাধুলা",
-    "json_link": "news/20260927142117.json",
-    "published_at": "2026-09-27T14:17:51Z"
   }
 ]
