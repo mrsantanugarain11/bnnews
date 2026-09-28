@@ -1,5 +1,40 @@
 [
   {
+    "title": "Kolkata Institute and DRDO Partnership: ভারতীয় জওয়ানদের রক্ষার কাজে সামিল যাদবপুর! DRDO-র সঙ্গে ৫০ কোটি টাকার কাজে যুক্ত",
+    "image": "https://www.hindustantimes.com/ht-img/img/2026/09/28/1600x900/GhTZgASXUAAcHhf_1790619765216_PEKX_1790619773158_U7IQ_847154fd-301d-4ae5-9530-f0d886c75597_LhCH.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20260929052227.json",
+    "published_at": "2026-09-28T18:28:56Z"
+  },
+  {
+    "title": "OnePlus 16 ১২ অক্টোবর চিনে লঞ্চ, গেমিংয়ে মিলবে ১৮৫Hz রিফ্রেশ রেট",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/oneplus-16-china-launch-october-12-185hz-gaming-refresh-rate.jpg",
+    "category": "লাইফস্টাইল ও রাশিফল",
+    "json_link": "news/20260929052213.json",
+    "published_at": "2026-09-28T14:30:21Z"
+  },
+  {
+    "title": "ফের বড় ৩ ঘোষণায় আলোচনায় শুভেন্দু! মাদ্রাসায় বাধ্যতামূলক হল ‘বন্দে মাতরম’",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/suvendu-adhikary.jpg",
+    "category": "রাজ্য",
+    "json_link": "news/20260929052156.json",
+    "published_at": "2026-09-27T12:28:26Z"
+  },
+  {
+    "title": "২০০ বছর পার করে ইতিহাস তৈরী করল ভারতীয় সেনাবাহিনীর আর্টিলারি রেজিমেন্ট",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/artilery.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20260929052137.json",
+    "published_at": "2026-09-28T14:22:36Z"
+  },
+  {
+    "title": "ওলিজ়ের শেষ মুহূর্তের গোলে জয় ফ্রান্সের, দাপট ইটালির",
+    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/68811/1790628831242.jpg",
+    "category": "খেলাধুলা",
+    "json_link": "news/20260929052121.json",
+    "published_at": "2026-09-29T02:22:00Z"
+  },
+  {
     "title": "ভারত স্পেস নির্ভর অর্থনীতির দিকে এগোচ্ছে, জানালেন Skyroot এর সহ-প্রতিষ্ঠাতার",
     "image": "https://imgs.etvbharat.com/etvbharat/prod-images/28-09-2026/1200-675-27740541-thumbnail-16x9-space.jpg",
     "category": "বাণিজ্য",
@@ -663,40 +698,5 @@
     "category": "খেলাধুলা",
     "json_link": "news/20260928042130.json",
     "published_at": "2026-09-27T15:09:42Z"
-  },
-  {
-    "title": "হাসিমারা-কালাইকুণ্ডা-মালদা-বালুরঘাটে বিমান পরিকাঠামো উন্নয়নে বড় পরিকল্পনা",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/west-bengal-hashimara-kalaikunda-malda-balurghat-airport-infrastructure-plan.jpg",
-    "category": "বাণিজ্য",
-    "json_link": "news/20260928042120.json",
-    "published_at": "2026-09-28T04:00:52Z"
-  },
-  {
-    "title": "Taliban US Relations: আমেরিকার ‘বন্ধু’ হতে চায় আফগানিস্তানের তালিবান সরকার, জেনেই পাকিস্তান যা করল…",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/Taliban-Seeks-US-Partnership.jpeg",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20260928032223.json",
-    "published_at": "2026-09-26T16:27:58Z"
-  },
-  {
-    "title": "মার্কিন যুক্তরাষ্ট্রে 'পিং পিং' ও 'ফু সুয়াং' নামে 2টি জায়ান্ট পান্ডা পাঠাল চিন",
-    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/27-09-2026/1200-675-27729452-1037-27729452-1790481418659.jpg",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20260928032209.json",
-    "published_at": "2026-09-27T12:16:17Z"
-  },
-  {
-    "title": "রাজ্যের দায়িত্বে থাকাকালীন সুইসাইড নোটেও ‘দায়ী’ হিসেবে লেখা ছিল যাঁর নাম, তিনিই এখন নির্বাচন কমিশনের সর্বময় কর্তা: বিতর্কের কেন্দ্রে জ্ঞানেশ কুমার",
-    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/09/Gyanesh-Kumar.webp",
-    "category": "জাতীয়",
-    "json_link": "news/20260928032153.json",
-    "published_at": "2026-09-26T11:12:25Z"
-  },
-  {
-    "title": "শতরানে মাইলস্টোন বাঁধিয়ে রাখলেন কোহলি, সেঞ্চুরি গিলেরও; সহজ জয়ে সিরিজে এগোল ভারত",
-    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/27-09-2026/1200-675-27733786-566-27733786-1790530594090.jpg",
-    "category": "খেলাধুলা",
-    "json_link": "news/20260928032141.json",
-    "published_at": "2026-09-27T17:43:54Z"
   }
 ]
