@@ -1,5 +1,40 @@
 [
   {
+    "title": "Parrot Intelligence: টিয়া কি মানুষের শেখানো কথাই শুধু বলতে পারে? নতুন গবেষণা আপনার মাথা ঘুরিয়ে দেবে",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/PAPA.jpg",
+    "category": "লাইফস্টাইল ও রাশিফল",
+    "json_link": "news/20260929202237.json",
+    "published_at": "2026-09-29T12:51:39Z"
+  },
+  {
+    "title": "October Rules Change: ATM-এ টাকা তোলা থেকে এলপিজি, ১ অক্টোবর থেকে বদলে যাচ্ছে এই নিয়ম",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/October-Rules-Change.jpg",
+    "category": "বাণিজ্য",
+    "json_link": "news/20260929202215.json",
+    "published_at": "2026-09-29T14:03:38Z"
+  },
+  {
+    "title": "টোটোর চাকায় ব্রেক কষল প্রশাসন! পুজোর আগে হাইওয়ে যানজটমুক্ত করতে বড় পদক্ষেপ",
+    "image": "https://bengali.cdn.zeenews.com/bengali/sites/default/files/2026/09/28/627141-toto.jpg",
+    "category": "জেলা",
+    "json_link": "news/20260929202158.json",
+    "published_at": "2026-09-28T00:00:00Z"
+  },
+  {
+    "title": "সম্পর্কের বরফ গলাতে তৎপর ভারত-বাংলাদেশ! তারেকের ভারত সফরের আগে বাড়ছে কূটনৈতিক যোগাযোগ",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/bangladesh-3.jpg",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20260929202146.json",
+    "published_at": "2026-09-29T19:35:05Z"
+  },
+  {
+    "title": "ভিথ্যার দুরন্ত শেষ ল্যাপ, এশিয়ান গেমসে ৪x৪০০ মিটার রিলেতে সোনা ভারতের",
+    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/09/Vithya-Ramraj.webp",
+    "category": "খেলাধুলা",
+    "json_link": "news/20260929202124.json",
+    "published_at": "2026-09-29T20:17:03Z"
+  },
+  {
     "title": "Mercedes-Benz GLC Electric ভারতে ৪ নভেম্বর লঞ্চ, দাম হতে পারে ৯০ লক্ষ",
     "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/mercedes-benz-glc-electric-india-launch-november-4-2026-price.jpg",
     "category": "বাণিজ্য",
@@ -663,40 +698,5 @@
     "category": "লাইফস্টাইল ও রাশিফল",
     "json_link": "news/20260929002135.json",
     "published_at": "2026-09-28T23:59:39Z"
-  },
-  {
-    "title": "গলি ক্রিকেট থেকে বিশ্বকাপ জয়, ইরফান পাঠানের ক্রিকেটজীবনের অজানা গল্প",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/irfan-pathan-cricket-journey-gully-cricket-world-cup-winning-story.jpg",
-    "category": "খেলাধুলা",
-    "json_link": "news/20260928232509.json",
-    "published_at": "2026-09-28T17:15:51Z"
-  },
-  {
-    "title": "বঙ্গোপসাগরের নিম্নচাপে বদল আবহাওয়া, ওড়িশার পর দিল্লিতে ২১ ডিগ্রি",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/bay-of-bengal-low-pressure-odisha-rain-delhi-temperature-21-degree-september.jpg",
-    "category": "আবহাওয়া",
-    "json_link": "news/20260928232428.json",
-    "published_at": "2026-09-28T16:45:25Z"
-  },
-  {
-    "title": "Cornell University: অশ্লীল বার্তা,মাদক খাইয়ে ঘণ্টার পর ঘণ্টা গণধর্ষণ!USর বিশ্ববিদ্যালয়ের বিরুদ্ধে মামলা প্রাক্তন ছাত্রীর",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/09/28/1600x900/Campus_1790592495901_55yu_1790592496223_xR5I_c2a3807d-22d6-4d66-bb36-bbf152bfd187_lvzU.jpg",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20260928232351.json",
-    "published_at": "2026-09-28T12:11:42Z"
-  },
-  {
-    "title": "আন্তর্জাতিক ক্রিকেট টুর্নামেন্ট থেকে বাদ পাকিস্তান, কারণ কি ভারত?",
-    "image": "https://cf-images.assettype.com/eisamay%2F2026-09-28%2Fp1fhhngg%2FIndia-vs-Pakistan?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
-    "category": "খেলাধুলা",
-    "json_link": "news/20260928232258.json",
-    "published_at": "2026-09-28T15:33:55Z"
-  },
-  {
-    "title": "রাশিয়ার অস্ত্র রফতানি নিয়ে দুই হিসাব, এসআইপিআরআইয়ে ৬৪ শতাংশ পতন",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/russia-arms-exports-tsamto-15-billion-sipri-64-percent-decline-2026.jpg",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20260928232150.json",
-    "published_at": "2026-09-28T23:15:14Z"
   }
 ]
