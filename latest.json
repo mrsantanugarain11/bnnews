@@ -1,5 +1,40 @@
 [
   {
+    "title": "থিমে শঙ্করনামা: পুজোর 90তম বর্ষে উদয়শঙ্করকে শ্রদ্ধা, সেজে উঠছে জগৎ মুখার্জি পার্ক",
+    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/29-09-2026/1200-675-27743372-thumbnail-16x9-jagat-park-aspera.jpg",
+    "category": "কলকাতা",
+    "json_link": "news/20260930122215.json",
+    "published_at": "2026-09-29T11:30:01Z"
+  },
+  {
+    "title": "Essar Group Investment: আমেরিকার ইতিহাসে সবচেয়ে বড় ইস্পাত কারখানা গড়বে ভারতের Essar Group, বিনিয়োগ ১৮ বিলিয়ন ডলার, জানালেন ট্রাম্প",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/Donald-trump-1.jpg",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20260930122201.json",
+    "published_at": "2026-09-29T03:59:50Z"
+  },
+  {
+    "title": "‘প্রেগন্যান্ট নাকি?...’, প্যারিস ফ্যাশন উইকে পেটের মেদ নিয়ে তুমুল কটাক্ষ ঐশ্বর্যকে",
+    "image": "https://cf-images.assettype.com/eisamay/2026-09-30/2vo4m08y/New-Project-30.webp",
+    "category": "বিনোদন",
+    "json_link": "news/20260930122147.json",
+    "published_at": "2026-09-30T06:15:00Z"
+  },
+  {
+    "title": "5 Elephant Underpasses: আর জাতীয় সড়কের উপর দিয়ে নয়, আন্ডারপাসে ‘রাজকীয়’ চালে যাবে হাতির দল",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/Elephant-corridor-in-Siliguri.jpeg",
+    "category": "জেলা",
+    "json_link": "news/20260930122130.json",
+    "published_at": "2026-09-30T02:58:34Z"
+  },
+  {
+    "title": "‘খাম’ প্রতীক নিয়ে আইএসএফের মামলা খারিজ করল কালকাতা হাইকোর্ট",
+    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/09/nawsad-siddique.webp",
+    "category": "কলকাতা",
+    "json_link": "news/20260930122118.json",
+    "published_at": "2026-09-30T12:00:26Z"
+  },
+  {
     "title": "করাচির ‘হোয়াইট হাউস’ ছেড়ে দাউদকে গোপন ডেরায়! নজরে আইএসআই",
     "image": "https://i0.wp.com/najarbandi.in/wp-content/uploads/2026/09/dawood-ibrahim-karachi-safe-house-isi.webp.webp",
     "category": "আন্তর্জাতিক",
@@ -663,40 +698,5 @@
     "category": "জাতীয়",
     "json_link": "news/20260929162128.json",
     "published_at": "2026-09-29T16:10:00Z"
-  },
-  {
-    "title": "Tejas vs Chinese J35 Fighter Jet: তেজসই যথেষ্ট চিনা J35 জেটের জন্য! বিশেষ নেটওয়ার্কে জোর ভারতের, এখনও 'না' Su57-কে",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/09/28/1600x900/INDIA-JAPAN-DEFENCE-11_1790600038704_I9mX_1790600072163_hkgy_6ac13e6c-f0bb-4794-9be2-c97e7ac8efe9_XsIV.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20260929152502.json",
-    "published_at": "2026-09-28T13:00:18Z"
-  },
-  {
-    "title": "Galaxy S25 ও Z Fold 8-এর দাম বাড়ার ইঙ্গিত, সর্বোচ্চ ১০ হাজার টাকা",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/samsung-galaxy-s25-z-fold-8-price-hike-up-to-10000-october-2026.jpg",
-    "category": "লাইফস্টাইল ও রাশিফল",
-    "json_link": "news/20260929152447.json",
-    "published_at": "2026-09-29T09:01:48Z"
-  },
-  {
-    "title": "দিল্লি গেলেন মমতারা",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/68862/1790673300502.jpeg",
-    "category": "জাতীয়",
-    "json_link": "news/20260929152423.json",
-    "published_at": "2026-09-29T14:40:00Z"
-  },
-  {
-    "title": "কোনও ম্যাচ না খেলেই এশিয়াডে সোনা জিততে পারে ভারত-পাকিস্তান",
-    "image": "https://cf-images.assettype.com/eisamay%2F2026-09-29%2Fpwshh9j2%2FIndia-vs-Pakistan?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
-    "category": "খেলাধুলা",
-    "json_link": "news/20260929152410.json",
-    "published_at": "2026-09-29T09:27:33Z"
-  },
-  {
-    "title": "আমেরিকানদের উদ্দেশে খোলা চিঠি",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/68374/1790400731089.jpg",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20260929152129.json",
-    "published_at": "2026-09-29T15:17:00Z"
   }
 ]
