@@ -1,5 +1,40 @@
 [
   {
+    "title": "আরব সাগরে উদ্ধার ৩ হাজার কোটি টাকার মাদক",
+    "image": "https://cf-images.assettype.com/eisamay/2026-09-30/ddrny7py/3000-Crore-Drugs-Seized",
+    "category": "জাতীয়",
+    "json_link": "news/20260930142322.json",
+    "published_at": "2026-09-30T08:15:13Z"
+  },
+  {
+    "title": "জেলেই থাকবেন শারজিল-খালিদ! ফের জামিন খারিজ দিল্লি হাইকোর্টে",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/sharjil.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20260930142306.json",
+    "published_at": "2026-09-30T13:25:33Z"
+  },
+  {
+    "title": "Congress Meeting: ‘জ্ঞানেশ কুমারকে ইস্তফা দিতেই হবে’, জোরালো দাবি রাহুলের, কংগ্রেস ওয়ার্কিং কমিটির বৈঠকে আর কী কী সিদ্ধান্ত?",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/Congress-committe-meeting.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20260930142158.json",
+    "published_at": "2026-09-29T10:11:30Z"
+  },
+  {
+    "title": "India bond market: শেয়ার বাজারে ‘ধাক্কা’ সামলাতে বড় পদক্ষেপ করছে ভারত, কী হতে চলেছে?",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/Sensex-India-new-bond.jpg",
+    "category": "বাণিজ্য",
+    "json_link": "news/20260930142144.json",
+    "published_at": "2026-09-30T08:02:20Z"
+  },
+  {
+    "title": "বিদ্যাসাগরের বীরসিংহে পর্যটন-গবেষণা কেন্দ্র, বড় পরিকল্পনা ঘোষণা মুখ্যমন্ত্রীর",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/birsingha-vidyasagar-tourism-research-centre-development-plan-west-bengal.jpg",
+    "category": "রাজ্য",
+    "json_link": "news/20260930142127.json",
+    "published_at": "2026-09-30T14:16:20Z"
+  },
+  {
     "title": "দাউদকে কি সরিয়ে নেওয়া হল করাচি পোর্টের সেফ হাউসে? ‘হোয়াইট হাউস’ ছাড়ার নেপথ্যে ISI-এর বড় পরিকল্পনা",
     "image": "https://kolkata24x7.in/wp-content/uploads/2023/02/Dawood-Ibrahim.jpg",
     "category": "আন্তর্জাতিক",
@@ -663,40 +698,5 @@
     "category": "লাইফস্টাইল ও রাশিফল",
     "json_link": "news/20260929182117.json",
     "published_at": "2026-09-30T00:05:00Z"
-  },
-  {
-    "title": "উৎসবের মরশুমে বড় ধাক্কা, বাড়ছে টিভি-ফ্রিজ-এসি-ওয়াশিং মেশিনের দাম",
-    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/09/Untitled-Design-2026-09-29T162413.023.webp",
-    "category": "বাণিজ্য",
-    "json_link": "news/20260929172212.json",
-    "published_at": "2026-09-29T10:54:46Z"
-  },
-  {
-    "title": "বায়ুদূষণ রোধে রাজধানীতে বিএস-৬ র নিচের যানবাহনের প্রবেশ নিষেধ",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/delhi-polution.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20260929172202.json",
-    "published_at": "2026-09-29T10:05:09Z"
-  },
-  {
-    "title": "Supreme Court: প্রতীক বিভ্রাটের নিষ্পত্তি কতদিনে, মমতার মামলায় সময় বেঁধে দিল সুপ্রিম কোর্ট",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/Large-image-Supreme-Court-39.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20260929172148.json",
-    "published_at": "2026-09-28T08:28:58Z"
-  },
-  {
-    "title": "ভারত-মায়ানমার সীমান্তে জঙ্গি হামলা! শহিদ অসম রাইফেলসের এক জওয়ান, আহত চার",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/assam-rifels.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20260929172137.json",
-    "published_at": "2026-09-29T16:23:55Z"
-  },
-  {
-    "title": "ওষুধের দাম নিয়ে প্রশ্ন",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/68843/1790664709205.jfif",
-    "category": "জাতীয়",
-    "json_link": "news/20260929172124.json",
-    "published_at": "2026-09-29T17:15:00Z"
   }
 ]
