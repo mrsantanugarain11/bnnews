@@ -1,5 +1,40 @@
 [
   {
+    "title": "ম্যাঙ্গালুরুর তেল শোধনাগারে ভয়াবহ বিস্ফোরণ! শুরু হল তদন্ত",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/mangaluru.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20260930162220.json",
+    "published_at": "2026-09-30T10:35:50Z"
+  },
+  {
+    "title": "SIR বিতর্ক থেকে জ্ঞানেশের অপসারণ, রাজধানীতে ঐক্যবদ্ধ ইন্ডিয়া শিবিরের বৈঠক শুরু",
+    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/30-09-2026/1200-675-27753087-thumbnail-16x9-i.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20260930162202.json",
+    "published_at": "2026-09-30T07:55:51Z"
+  },
+  {
+    "title": "Supreme Court: প্রতীক বিভ্রাটের নিষ্পত্তি কতদিনে, মমতার মামলায় সময় বেঁধে দিল সুপ্রিম কোর্ট",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/Large-image-Supreme-Court-39.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20260930162149.json",
+    "published_at": "2026-09-28T08:28:58Z"
+  },
+  {
+    "title": "ঘাটাল মাস্টার প্ল্যানের জন্য ১২০০ কোটি টাকা, বীরসিংহ গ্রাম থেকে বড় ঘোষণা মুখ্যমন্ত্রীর",
+    "image": "https://cf-images.assettype.com/eisamay/2026-09-30/yk9r8d4h/suvendu-adhikari",
+    "category": "রাজ্য",
+    "json_link": "news/20260930162138.json",
+    "published_at": "2026-09-30T10:19:02Z"
+  },
+  {
+    "title": "বাড়ল শক্তি! পাঞ্জাব এফসিতে যোগ দিলেন এই বিদেশি মিডফিল্ডার",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/punjab-fc-signs-foreign-midfielder-mickael-malsa-indian-football.jpg",
+    "category": "খেলাধুলা",
+    "json_link": "news/20260930162122.json",
+    "published_at": "2026-09-30T16:15:36Z"
+  },
+  {
     "title": "BMW 3 Series-এর অষ্টম প্রজন্ম প্রকাশ, নিউ ক্লাস ডিজাইনে বড় বদল",
     "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/new-bmw-3-series-g50-eighth-generation-neue-klasse-design-2027.jpg",
     "category": "বাণিজ্য",
@@ -663,40 +698,5 @@
     "category": "খেলাধুলা",
     "json_link": "news/20260929202124.json",
     "published_at": "2026-09-29T20:17:03Z"
-  },
-  {
-    "title": "Mercedes-Benz GLC Electric ভারতে ৪ নভেম্বর লঞ্চ, দাম হতে পারে ৯০ লক্ষ",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/mercedes-benz-glc-electric-india-launch-november-4-2026-price.jpg",
-    "category": "বাণিজ্য",
-    "json_link": "news/20260929192210.json",
-    "published_at": "2026-09-29T13:00:56Z"
-  },
-  {
-    "title": "দিল্লি গেলেন মমতা, ইন্ডি জোটের বৈঠকে থাকছেন কারা?",
-    "image": "https://cf-images.assettype.com/eisamay%2F2026-09-29%2Fklj8uk5m%2FINDI-Alliance-Meeting?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
-    "category": "জাতীয়",
-    "json_link": "news/20260929192201.json",
-    "published_at": "2026-09-29T13:39:04Z"
-  },
-  {
-    "title": "Lata Mangeshkar: কেন সারাজীবন শুধুই সাদা শাড়ি পরেছেন লতা মঙ্গেশকর?",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/Lata-M.jpg",
-    "category": "বিনোদন",
-    "json_link": "news/20260929192148.json",
-    "published_at": "2026-09-28T07:55:19Z"
-  },
-  {
-    "title": "মঙ্গলকোটে গ্রেফতার ইমাম, এনআইএ জালে পিয়ার মহম্মদ !",
-    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/29-09-2026/1200-675-27746550-thumbnail-16x9-imam-aspera.jpg",
-    "category": "রাজ্য",
-    "json_link": "news/20260929192127.json",
-    "published_at": "2026-09-29T11:48:34Z"
-  },
-  {
-    "title": "চাক বেঁধেছে অন্ধকার",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/68421/1790417040908.jpg",
-    "category": "বিনোদন",
-    "json_link": "news/20260929192119.json",
-    "published_at": "2026-09-30T00:04:00Z"
   }
 ]
