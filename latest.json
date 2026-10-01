@@ -1,5 +1,40 @@
 [
   {
+    "title": "ED Raid: সুপারি পাচারের অভিযোগ, ব্যবসায়ীর বাড়িতে সাতসকালে ED",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/ED-Raid-.jpg",
+    "category": "জেলা",
+    "json_link": "news/20261001152239.json",
+    "published_at": "2026-10-01T09:08:11Z"
+  },
+  {
+    "title": "Flydubai Flight: দেশ পাশে আছে, ক্যাপ্টেনের পরিবারকে ফোন করে আশ্বাস মোদীর",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/PM-Modi-Diet-1.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261001152225.json",
+    "published_at": "2026-10-01T06:04:14Z"
+  },
+  {
+    "title": "৫০ বছরের প্রার্থনা থমকে বিমানবন্দরের মসজিদে, অধিকার বনাম নিরাপত্তার টানাপোড়েন আদালতে",
+    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/10/Dumdum-Airport.webp",
+    "category": "কলকাতা",
+    "json_link": "news/20261001152209.json",
+    "published_at": "2026-10-01T08:53:46Z"
+  },
+  {
+    "title": "পিথোরাগড়ে ভারত ও মঙ্গোলিয়ার সামরিক মৈত্রীর এক জমকালো প্রদর্শনী, দেখুন ভিডিও",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/nomadic-elephant.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261001152140.json",
+    "published_at": "2026-10-01T14:07:00Z"
+  },
+  {
+    "title": "খাদ্য সুরক্ষায় প্রশ্ন, লাইসেন্স স্থগিত",
+    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/59021/1785440393795.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261001152123.json",
+    "published_at": "2026-10-01T15:45:00Z"
+  },
+  {
     "title": "ডিসেম্বরের বাংলাদেশের দিকে তাকিয়ে",
     "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2025/10/Sheikh-Hasina.jpg",
     "category": "আন্তর্জাতিক",
@@ -663,40 +698,5 @@
     "category": "খেলাধুলা",
     "json_link": "news/20260930202144.json",
     "published_at": "2026-09-30T20:17:18Z"
-  },
-  {
-    "title": "Amitabh-Aishwarya Net Worth: কে বেশি বড়লোক অমিতাভ নাকি ঐশ্বর্য? কত সম্পত্তির মালিক অভিষেক বচ্চন?",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/Bachchc.jpg",
-    "category": "বিনোদন",
-    "json_link": "news/20260930192202.json",
-    "published_at": "2026-09-30T12:37:14Z"
-  },
-  {
-    "title": "Mamata on Gyanesh kumar: ‘এখন বোঝা যাচ্ছে তো ভ্যানিশ কুমার চোর?’, ‘এক্ষুনি পদত্যাগ’ চেয়ে সুর চড়ালেন মমতা",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/Mamata-Banerjee-2026-09-30T175234.775.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20260930192151.json",
-    "published_at": "2026-09-30T12:25:34Z"
-  },
-  {
-    "title": "টোটোর চাকায় ব্রেক কষল প্রশাসন! পুজোর আগে হাইওয়ে যানজটমুক্ত করতে বড় পদক্ষেপ",
-    "image": "https://bengali.cdn.zeenews.com/bengali/sites/default/files/2026/09/28/627141-toto.jpg",
-    "category": "জেলা",
-    "json_link": "news/20260930192140.json",
-    "published_at": "2026-09-28T00:00:00Z"
-  },
-  {
-    "title": "বৃষ্টি কি ফের ভেস্তে দেবে ভারত-শ্রীলঙ্কা সেমিফাইনাল? আবহাওয়ার পূর্বাভাসে কোন ইঙ্গিত?",
-    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/09/Asian-Games-cricket-semifinal.webp",
-    "category": "খেলাধুলা",
-    "json_link": "news/20260930192128.json",
-    "published_at": "2026-09-30T19:03:50Z"
-  },
-  {
-    "title": "অবিশ্বাস্য প্রত্যাবর্তন কুশল, সাহিল, গণেশদের, চিনকে হারিয়ে এশিয়ান গেমসে সোনাজয়ের হ্যাটট্রিক ভারতের",
-    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/09/Asian-games-archery.webp",
-    "category": "খেলাধুলা",
-    "json_link": "news/20260930192118.json",
-    "published_at": "2026-09-30T19:19:35Z"
   }
 ]
