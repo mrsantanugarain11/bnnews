@@ -1,5 +1,40 @@
 [
   {
+    "title": "Flydubai Attack: ভারতীয় পাইলটের উপর ক্র্যাশ অ্যাক্স দিয়ে হামলা! ফ্লাইদুবাইয়ে কেন রাখা ছিল ধারাল অস্ত্র?",
+    "image": "https://www.hindustantimes.com/ht-img/img/2026/10/01/1600x900/HTfhQ6nWQAAkbAa_1790853838092_NLdj_1790853853558_sRn4_71d88431-53bc-44e1-abb8-67d3a0c2fac4_3JHj.jpeg",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20261002032213.json",
+    "published_at": "2026-10-01T17:00:06Z"
+  },
+  {
+    "title": "মহিলা যাত্রীদের নিরাপত্তায় কড়া দিল্লি হাইকোর্ট, ওলা-উবার-র‌্যাপিডো  নোটিস",
+    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/09/Untitled-Design-2026-09-30T173038.522.webp",
+    "category": "জাতীয়",
+    "json_link": "news/20261002032158.json",
+    "published_at": "2026-09-30T17:33:11Z"
+  },
+  {
+    "title": "Congress Meeting: ‘জ্ঞানেশ কুমারকে ইস্তফা দিতেই হবে’, জোরালো দাবি রাহুলের, কংগ্রেস ওয়ার্কিং কমিটির বৈঠকে আর কী কী সিদ্ধান্ত?",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/Congress-committe-meeting.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261002032147.json",
+    "published_at": "2026-09-29T10:11:30Z"
+  },
+  {
+    "title": "চ্যালেঞ্জের মুখে ভারত, মানছে অর্থ মন্ত্রক",
+    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69293/1790886276883.jpg",
+    "category": "বাণিজ্য",
+    "json_link": "news/20261002032134.json",
+    "published_at": "2026-10-02T01:50:00Z"
+  },
+  {
+    "title": "জ্বালানি বিক্রিতে কোনও সীমা নয়, দেশজুড়ে সরবরাহ স্বাভাবিক: Nayara Energy",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/nayara-energy-denies-fuel-sales-cap-petrol-diesel-supply-india.jpg",
+    "category": "বাণিজ্য",
+    "json_link": "news/20261002032121.json",
+    "published_at": "2026-10-02T03:15:17Z"
+  },
+  {
     "title": "লেক্সাসের উপর নতুন বিলাসী ব্র্যান্ড সেঞ্চুরি, বিশ্ববাজারে আনছে Toyota",
     "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/toyota-century-ultra-luxury-brand-above-lexus-global-market.jpg",
     "category": "বাণিজ্য",
@@ -663,40 +698,5 @@
     "category": "জেলা",
     "json_link": "news/20261001082130.json",
     "published_at": "2026-10-01T08:15:00Z"
-  },
-  {
-    "title": "টানা তিন দিনে কমল সোনার দাম! বিনিয়োগকারীদের জন্য কী পরামর্শ বিশেষজ্ঞদের?",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/08/gold-rate-today-kolkata-24-carat-price-august-25-2026.jpg",
-    "category": "বাণিজ্য",
-    "json_link": "news/20261001072231.json",
-    "published_at": "2026-09-30T08:58:15Z"
-  },
-  {
-    "title": "দিল্লি গেলেন মমতারা",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/68862/1790673300502.jpeg",
-    "category": "জাতীয়",
-    "json_link": "news/20261001072209.json",
-    "published_at": "2026-09-29T14:40:00Z"
-  },
-  {
-    "title": "আরব সাগরে 'নজর এড়ানো' স্তন্যপায়ী নিয়ে বড় গবেষণা, মিলল গুরুত্বপূর্ণ জেনেটিক তথ্য",
-    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/29-09-2026/1200-675-27742443-thumbnail-16x9-zsi.jpg",
-    "category": "লাইফস্টাইল ও রাশিফল",
-    "json_link": "news/20261001072152.json",
-    "published_at": "2026-09-29T03:35:55Z"
-  },
-  {
-    "title": "ক্য়াপ্টেনের দ্রুততম ডাবল-সেঞ্চুরিতে সর্বাধিক রান তাড়ার নজির, ক্যারিবিয়ানদের বিরুদ্ধে সিরিজ জয় ভারতের",
-    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/30-09-2026/1200-675-27759092-903-27759092-1790789508088.jpg",
-    "category": "খেলাধুলা",
-    "json_link": "news/20261001072134.json",
-    "published_at": "2026-09-30T17:41:21Z"
-  },
-  {
-    "title": "আটক ৯ বাংলাদেশি",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69090/1790783226368.jpeg",
-    "category": "জাতীয়",
-    "json_link": "news/20261001072120.json",
-    "published_at": "2026-10-01T07:15:00Z"
   }
 ]
