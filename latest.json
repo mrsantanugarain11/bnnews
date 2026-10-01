@@ -1,5 +1,40 @@
 [
   {
+    "title": "ফ্লাইদুবাইয়ের ফ্লাইটে 174 জনের প্রাণ বাঁচিয়ে 'হিরো', কে এই ক্যাপ্টেন স্মিত মচ্ছর ?",
+    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/01-10-2026/1200-675-27763405-thumbnail-16x9-pilot.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261001182228.json",
+    "published_at": "2026-10-01T11:16:29Z"
+  },
+  {
+    "title": "Mamata Banerjee: ‘মেজোরিটি দিয়ে পাস হয়নি’, নির্বাচন কমিশনারের রক্ষাকবচ নিয়ে বড় প্রশ্ন তুললেন মমতা",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Large-image-mamata-55.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261001182207.json",
+    "published_at": "2026-10-01T12:01:52Z"
+  },
+  {
+    "title": "আবার ফিরবে 'বলাকা-হাম্বার'? মুখ্যমন্ত্রীর ঘোষণায় বুক বাঁধছে সেন-র্যালে",
+    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/01-10-2026/1200-675-27762327-thumbnail-16x9-a.jpg",
+    "category": "জেলা",
+    "json_link": "news/20261001182151.json",
+    "published_at": "2026-10-01T10:11:01Z"
+  },
+  {
+    "title": "পাক জঙ্গি ঘাঁটি ধ্বংস করার পর &#8216;যুদ্ধ অভ্যাস&#8217; মহড়ায় স্কাইস্ট্রাইকারের সক্ষমতা প্রদর্শন করল ভারত",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/Skystriker.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261001182133.json",
+    "published_at": "2026-10-01T17:28:15Z"
+  },
+  {
+    "title": "পর পর ২ বার প্রাণঘাতী ইঞ্জেকশন, তারপরেও মৃত্যু হল না আমেরিকার মৃত্যুদণ্ডপ্রাপ্ত আসামির",
+    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/10/Christa-Pike.webp",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20261001182119.json",
+    "published_at": "2026-10-01T18:06:55Z"
+  },
+  {
     "title": "মায়াপুরকে আন্তর্জাতিক তীর্থক্ষেত্র ও নবদ্বীপকে ‘স্মার্ট সিটি’ করার মেগা পরিকল্পনা রাজ্য সরকারের",
     "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/10/Agnimitra-Paul-9.webp",
     "category": "রাজ্য",
@@ -663,40 +698,5 @@
     "category": "খেলাধুলা",
     "json_link": "news/20260930232203.json",
     "published_at": "2026-09-30T23:10:00Z"
-  },
-  {
-    "title": "Jetour T2 Facelift আন্তর্জাতিক বাজারে লঞ্চ, ভারতে আসছে পুরনো মডেল",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/09/jetour-t2-facelift-global-launch-india-combat.jpg",
-    "category": "বাণিজ্য",
-    "json_link": "news/20260930222401.json",
-    "published_at": "2026-09-30T16:00:15Z"
-  },
-  {
-    "title": "Humayun Kabir Vijay TVK: ‘ভোটের পরই তামিলনাড়ু যাব’, এবার বাংলায় আত্মপ্রকাশ বিজয় থলপতি-হুমায়ুন কবীরের জোট?",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/09/Humayun-TVK.jpeg",
-    "category": "রাজ্য",
-    "json_link": "news/20260930222349.json",
-    "published_at": "2026-09-30T15:56:11Z"
-  },
-  {
-    "title": "কলকাতায় ফের আসছেন তসলিমা নাসরিন, কবে-কোথায় অনুষ্ঠান রয়েছে লেখিকা-কবির ?",
-    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/28-09-2026/1200-675-27734710-thumbnail-16x9-aaaa.jpg",
-    "category": "কলকাতা",
-    "json_link": "news/20260930222330.json",
-    "published_at": "2026-09-28T09:20:32Z"
-  },
-  {
-    "title": "Modi-Trump Talk Latest Update: নিষেধাজ্ঞা আইন ও সন্ত্রাসবাদ নিয়ে ভারত হুঁশিয়ারি দিতেই মোদীর সঙ্গে কথা ট্রাম্পের",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/09/30/1600x900/ANI-20260616408-0_1781659604746_1781659612636_abc74e84-0a80-47d4-8efd-349ba6c98a11_1790778441205_84T2_63103bef-50e7-42ce-8dd6-bbd0631c4e65_bNOj.jpg",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20260930222218.json",
-    "published_at": "2026-09-30T14:28:49Z"
-  },
-  {
-    "title": "যাত্রীদের প্রাণরক্ষা, কৃতিত্ব ভারতীয়ের",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69097/1790784543148.jfif",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20260930222154.json",
-    "published_at": "2026-09-30T21:40:00Z"
   }
 ]
