@@ -1,5 +1,40 @@
 [
   {
+    "title": "Pakistan invites India for SCO Hockey: ভারতকে SCO হকি টুর্নামেন্ট খেলতে আমন্ত্রণ পাকের! ভারতীয় কূটনীতিবিদের মুখে লাহোরও",
+    "image": "https://www.hindustantimes.com/ht-img/img/2026/09/30/1600x900/HTcyhINbwAAbI1R_1790792571121_VOIm_1790792579401_8s75_46cbc866-304e-4504-9e49-da891ccb6759_fnrd.jpg",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261002202216.json",
+    "published_at": "2026-09-30T18:26:11Z"
+  },
+  {
+    "title": "৪০০০ মৃত্যু, হাতে নেই ভ্যাকসিন: মারণ ভাইরাসের ঢেউ আছড়ে পড়েছে, দুয়ারে আরেকটা অতিমারী",
+    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/10/Viral-Containment-scaled.webp",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20261002202202.json",
+    "published_at": "2026-10-02T14:46:35Z"
+  },
+  {
+    "title": "দেশের জ্বালানি নিরাপত্তায় কেন্দ্রের নয়া অফশোর এক্সপ্লোরেশন প্রকল্প ‘সমুদ্র মন্থন’",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/samudra-manthan.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261002202149.json",
+    "published_at": "2026-10-02T12:51:50Z"
+  },
+  {
+    "title": "India vs Brazil: যুবভারতীতে প্র্যাক্টিসে নামল ব্রাজিল, হাইভোল্টেজ ম্যাচের আগে দলকে উজ্জীবিত করলেন খালিদ!",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/ind-vs-brazil-2.jpg",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261002202131.json",
+    "published_at": "2026-10-02T14:12:22Z"
+  },
+  {
+    "title": "হিমবাহ হ্রদের জল নিষ্কাশনের পরিকল্পনা",
+    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/65406/1788786175182.jpg",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20261002202119.json",
+    "published_at": "2026-10-02T20:00:00Z"
+  },
+  {
     "title": "Explainer: ভাগ্যে শিকে ছিঁড়বে? নোবেল প্রাইজের জন্য মহাকাশের সঙ্গে শেষ মুহূর্তের লড়াইয়ে ডোনাল্ড ট্রাম্প",
     "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/07/Donald_Trump_by_Gage_Skidmore_2.webp",
     "category": "আন্তর্জাতিক",
@@ -663,40 +698,5 @@
     "category": "বাণিজ্য",
     "json_link": "news/20261002012126.json",
     "published_at": "2026-10-02T01:00:55Z"
-  },
-  {
-    "title": "ইতিহাসে আজকের দিন: ২ অক্টোবর | গান্ধী ও শাস্ত্রীর জন্মদিন, আরও যে ঘটনাগুলি বদলে দিয়েছে ইতিহাস",
-    "image": "https://i0.wp.com/najarbandi.in/wp-content/uploads/2026/10/itihase-ajker-din-2-october-gandhi-shastri-2.webp",
-    "category": "জাতীয়",
-    "json_link": "news/20261002002228.json",
-    "published_at": "2026-10-01T17:05:02Z"
-  },
-  {
-    "title": "আইএসএলের টাইটেল স্পন্সর হিসেবে এবার এমজি মোটর",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/Indian-Super-League-title-sponsor-mg-motor-india-mg-indian-super-league-2026.jpg",
-    "category": "খেলাধুলা",
-    "json_link": "news/20261002002216.json",
-    "published_at": "2026-10-01T18:03:28Z"
-  },
-  {
-    "title": "ভবিষ্যতের যুদ্ধের প্রস্তুতি, ইলন মাস্ককে নিয়ে আমেরিকার ‘প্রজেক্ট মেরিডিয়ান’",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/elon-musk-project-meridian-us-future-war-technology-pentagon.jpg",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20261002002158.json",
-    "published_at": "2026-10-01T17:50:18Z"
-  },
-  {
-    "title": "বিশ্বকাপে ভারত-পাক ১০ অক্টোবর, অভিযান শুরু অস্ট্রেলিয়ার বিরুদ্ধে",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69283/1790877302687.jfif",
-    "category": "খেলাধুলা",
-    "json_link": "news/20261002002139.json",
-    "published_at": "2026-10-01T23:41:00Z"
-  },
-  {
-    "title": "২০২৬-এর প্রথমার্ধে ভারতের সেরা ১০ ইলেকট্রিক গাড়ি, শীর্ষে MG Windsor",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/best-selling-electric-cars-india-first-half-2026-mg-windsor-top-10.jpg",
-    "category": "বাণিজ্য",
-    "json_link": "news/20261002002125.json",
-    "published_at": "2026-10-01T23:59:47Z"
   }
 ]
