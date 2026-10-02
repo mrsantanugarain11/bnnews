@@ -1,5 +1,40 @@
 [
   {
+    "title": "Explainer: ভাগ্যে শিকে ছিঁড়বে? নোবেল প্রাইজের জন্য মহাকাশের সঙ্গে শেষ মুহূর্তের লড়াইয়ে ডোনাল্ড ট্রাম্প",
+    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/07/Donald_Trump_by_Gage_Skidmore_2.webp",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20261002192227.json",
+    "published_at": "2026-10-02T13:21:19Z"
+  },
+  {
+    "title": "CJP Protest: ‘জেলে ভরে দেখাক’, চ্যালেঞ্জ দীপকের, CJP-র আন্দোলনে অন্ধকার দিল্লি, স্তব্ধ হচ্ছে মুম্বইও",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/CJP-Protest-Delhi-Mumbai.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261002192215.json",
+    "published_at": "2026-10-02T13:34:36Z"
+  },
+  {
+    "title": "নজরে অবৈধ অনুপ্রবেশ! মুম্বই পুলিশের অ্যান্টি-টেররিজম সেলের জালে ৬ বাংলাদেশি",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/bangladesi-1.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261002192159.json",
+    "published_at": "2026-10-02T13:46:26Z"
+  },
+  {
+    "title": "Indian Womens Hockey Team: বাস্তবের ‘চক দে ইন্ডিয়া’, ৪৪ বছরের খরা কাটিয়ে এশিয়ানে সোনা জিতল ভারতের মেয়েরা!",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/hockey.jpg",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261002192137.json",
+    "published_at": "2026-10-02T13:20:22Z"
+  },
+  {
+    "title": "ফর্ম ৬ নিয়ে প্রাক্তন নির্বাচন কমিশনারের দাবি",
+    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69375/1790948662315.jfif",
+    "category": "জাতীয়",
+    "json_link": "news/20261002192121.json",
+    "published_at": "2026-10-02T19:15:00Z"
+  },
+  {
     "title": "বিশ্বভারতীকে ধ্রুপদী বাংলা ভাষার মূল কেন্দ্র ঘোষণা কেন্দ্রের, কর্মসংস্থানের আশা",
     "image": "https://imgs.etvbharat.com/etvbharat/prod-images/02-10-2026/1200-675-27772614-thumbnail-16x9-visva.jpg",
     "category": "রাজ্য",
@@ -663,40 +698,5 @@
     "category": "বাণিজ্য",
     "json_link": "news/20261002002125.json",
     "published_at": "2026-10-01T23:59:47Z"
-  },
-  {
-    "title": "এমসিএক্স সোনার দাম দেড় লাখের কাছে, নজরে গুরুত্বপূর্ণ বাই-সেল লেভেল",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/mcx-gold-price-near-1-5-lakh-key-buy-sell-levels.jpg",
-    "category": "বাণিজ্য",
-    "json_link": "news/20261001232226.json",
-    "published_at": "2026-10-01T17:40:17Z"
-  },
-  {
-    "title": "Dharyam 3 Advance Booking: মুক্তির আগেই ৩৭ কোটির ব্যবসা ‘দৃশ্যম ৩’-এর! প্রথম দিনে আয়ের লক্ষ্যমাত্রা কত?",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/10/01/1600x900/drishyam_3__1790842145653_nCGL_1790842145778_b79L_fcccf54c-fd44-4cf8-b403-e0c17f51b38f_O4bS.png",
-    "category": "বিনোদন",
-    "json_link": "news/20261001232207.json",
-    "published_at": "2026-10-01T08:09:41Z"
-  },
-  {
-    "title": "সন্ত্রাসের বিরুদ্ধে ভারতের অবস্থান",
-    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/09/New-Project-2026-09-09T184756.028.webp",
-    "category": "জাতীয়",
-    "json_link": "news/20261001232149.json",
-    "published_at": "2026-09-29T01:35:53Z"
-  },
-  {
-    "title": "শুরুতেই অজ়িদের চ্যালেঞ্জ, নিশ্চিত ভারত-পাক দ্বৈরথ, দেখুন ODI বিশ্বকাপে ভারতের সূচি",
-    "image": "https://cf-images.assettype.com/eisamay%2F2026-10-01%2Fe0e8fgyw%2Findia-world-cup-.webp?rect=0%2C0%2C1200%2C630&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
-    "category": "খেলাধুলা",
-    "json_link": "news/20261001232137.json",
-    "published_at": "2026-10-01T17:35:08Z"
-  },
-  {
-    "title": "বিজেপি কর্মীকে হেনস্থার নালিশে ধৃত সাত জন",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69278/1790875792563.jpg",
-    "category": "জেলা",
-    "json_link": "news/20261001232120.json",
-    "published_at": "2026-10-01T22:59:00Z"
   }
 ]
