@@ -1,5 +1,40 @@
 [
   {
+    "title": "হরমুজ়ে ফের তেলের ট্যাঙ্কারে হামলা",
+    "image": "https://cf-images.assettype.com/eisamay/2026-03-12/7odvfjp0/attack-on-us-oil-tanker.webp",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20261003152216.json",
+    "published_at": "2026-10-03T09:32:29Z"
+  },
+  {
+    "title": "Cockroach Janta Party: দিল্লি-মুম্বইয়ের পর কলকাতা, জ্ঞানেশ কুমারের ইস্তফার দাবিতে রাজপথে নামবে ককরোচরা!",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/CJP-Kolkata-Protest.jpg",
+    "category": "কলকাতা",
+    "json_link": "news/20261003152200.json",
+    "published_at": "2026-10-03T09:22:27Z"
+  },
+  {
+    "title": "ইস্কন মায়াপুরকে ঘিরে ৮০০ একরের আন্তর্জাতিক তীর্থক্ষেত্র তৈরির পরিকল্পনা পশ্চিমবঙ্গ সরকারের",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/mayapur-1.jpg",
+    "category": "রাজ্য",
+    "json_link": "news/20261003152148.json",
+    "published_at": "2026-10-02T11:17:57Z"
+  },
+  {
+    "title": "রিকার্ভে ব্যক্তিগত ইভেন্টে ইতিহাস গড়লেন কুমকুম, এই ইভেন্টে প্রথম সোনা পেল ভারত",
+    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/10/Kumkum-Anil-Mohod.webp",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261003152132.json",
+    "published_at": "2026-10-03T13:29:36Z"
+  },
+  {
+    "title": "ধনু রাশির রবিবারের দিনটা কেমন কাটবে? পড়ুন 'আরও আনন্দ' রাশিফল (Sagittarius Horoscope)",
+    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/65186/1788678152930.png",
+    "category": "লাইফস্টাইল ও রাশিফল",
+    "json_link": "news/20261003152121.json",
+    "published_at": "2026-10-03T18:45:00Z"
+  },
+  {
     "title": "Anthropic: রামকৃষ্ণ মিশনের স্বামী সর্বপ্রিয়ানন্দের দ্বারস্থ Anthropic, হিন্দু সন্ন্যাসীর সঙ্গে কেন বৈঠক AI সংস্থার?",
     "image": "https://www.hindustantimes.com/ht-img/img/2026/10/03/1600x900/swami_sarvapriyananda__1791002892399_fw0Q_1791002897045_Qvqy_c5071ed0-d3f5-4c94-a0a5-78f5c8704dab_enog.jpg",
     "category": "লাইফস্টাইল ও রাশিফল",
@@ -663,40 +698,5 @@
     "category": "আন্তর্জাতিক",
     "json_link": "news/20261002202119.json",
     "published_at": "2026-10-02T20:00:00Z"
-  },
-  {
-    "title": "Explainer: ভাগ্যে শিকে ছিঁড়বে? নোবেল প্রাইজের জন্য মহাকাশের সঙ্গে শেষ মুহূর্তের লড়াইয়ে ডোনাল্ড ট্রাম্প",
-    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/07/Donald_Trump_by_Gage_Skidmore_2.webp",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20261002192227.json",
-    "published_at": "2026-10-02T13:21:19Z"
-  },
-  {
-    "title": "CJP Protest: ‘জেলে ভরে দেখাক’, চ্যালেঞ্জ দীপকের, CJP-র আন্দোলনে অন্ধকার দিল্লি, স্তব্ধ হচ্ছে মুম্বইও",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/CJP-Protest-Delhi-Mumbai.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20261002192215.json",
-    "published_at": "2026-10-02T13:34:36Z"
-  },
-  {
-    "title": "নজরে অবৈধ অনুপ্রবেশ! মুম্বই পুলিশের অ্যান্টি-টেররিজম সেলের জালে ৬ বাংলাদেশি",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/bangladesi-1.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20261002192159.json",
-    "published_at": "2026-10-02T13:46:26Z"
-  },
-  {
-    "title": "Indian Womens Hockey Team: বাস্তবের ‘চক দে ইন্ডিয়া’, ৪৪ বছরের খরা কাটিয়ে এশিয়ানে সোনা জিতল ভারতের মেয়েরা!",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/hockey.jpg",
-    "category": "খেলাধুলা",
-    "json_link": "news/20261002192137.json",
-    "published_at": "2026-10-02T13:20:22Z"
-  },
-  {
-    "title": "ফর্ম ৬ নিয়ে প্রাক্তন নির্বাচন কমিশনারের দাবি",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69375/1790948662315.jfif",
-    "category": "জাতীয়",
-    "json_link": "news/20261002192121.json",
-    "published_at": "2026-10-02T19:15:00Z"
   }
 ]
