@@ -1,5 +1,40 @@
 [
   {
+    "title": "হামলাকারী কো-পাইলটকে আগেই নিষিদ্ধ করেছিল ওমান, তারপরও কীভাবে ফ্লাইদুবাই-তে নিয়োগ ?",
+    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/03-10-2026/1200-675-27777126-thumbnail-16x9-flydubai.jpg",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20261003122218.json",
+    "published_at": "2026-10-03T04:54:31Z"
+  },
+  {
+    "title": "‘দিল্লি চলো’ ডাক ককরোচ জনতা পার্টির, জ্ঞানেশের ইস্তফার দাবিতে ১০ অক্টোবর যন্তর মন্তরে বিক্ষোভ",
+    "image": "https://i0.wp.com/najarbandi.in/wp-content/uploads/2026/10/gyanesh-kumar-cockroach-janata-party-protest.webp",
+    "category": "জাতীয়",
+    "json_link": "news/20261003122203.json",
+    "published_at": "2026-10-03T04:50:35Z"
+  },
+  {
+    "title": "LIVE Update: পুলিসের বড়সড় সাফল্য! আড়াই লক্ষ টাকার মোবাইল উদ্ধার, গ্রেফতার ২",
+    "image": "https://bengali.cdn.zeenews.com/bengali/sites/default/files/2026/10/03/breakingnews-thumbnail.jpg.jpeg",
+    "category": "রাজ্য",
+    "json_link": "news/20261003122150.json",
+    "published_at": "2026-10-03T00:00:00Z"
+  },
+  {
+    "title": "India vs Pakistan Live Cricket Score: বিধ্বংসী শুরু ভারতের, ২০ বলে ৫০ অভিষেক শর্মার",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Crcicket-Live.jpg",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261003122138.json",
+    "published_at": "2026-10-03T05:33:12Z"
+  },
+  {
+    "title": "জ্ঞানেশ কুমারের পদত্যাগ দাবিতে উত্তপ্ত রাজনীতি! ফের যন্তর মন্তরে প্রতিবাদের ডাক সিজেপির",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/cjp5.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261003122125.json",
+    "published_at": "2026-10-03T12:14:50Z"
+  },
+  {
     "title": "আজকের রাশিফল: ২ অক্টোবর ২০২৬, শুক্রবার—কর্ম, অর্থ, প্রেম ও স্বাস্থ্যে কেমন কাটবে ১২ রাশির দিন?",
     "image": "https://i0.wp.com/najarbandi.in/wp-content/uploads/2026/10/ajker-rashifal-2-october-2026.webp",
     "category": "লাইফস্টাইল ও রাশিফল",
@@ -663,40 +698,5 @@
     "category": "জাতীয়",
     "json_link": "news/20261002172134.json",
     "published_at": "2026-10-02T17:15:00Z"
-  },
-  {
-    "title": "250000 visas Revoked in Trump's presidency: ট্রাম্পের কড়া কোপ, বাতিল আড়াই লক্ষের বেশি মার্কিন ভিসা! কেন এমন সিদ্ধান্ত?",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/10/01/1600x900/TRUMP-ALASKA-LNG-9_1790822684410_D0c9_1790822695107_CT6t_39d676e9-3322-42a7-962b-7574b4a0dd30_ZmO6.jpg",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20261002162206.json",
-    "published_at": "2026-10-01T02:46:11Z"
-  },
-  {
-    "title": "WhatsApp: হোয়াটসঅ্যাপে মেসেজ পাঠালেই দিতে হবে চার্জ, নয়া নিয়ম আনছে মেটা",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Whatsapp-business-news.jpg",
-    "category": "বাণিজ্য",
-    "json_link": "news/20261002162152.json",
-    "published_at": "2026-10-02T10:48:32Z"
-  },
-  {
-    "title": "ব্রেক আপের হাড়হিম বদলা! নার্সিং ছাত্রীকে নৃশংস খুন, ৫ শহর ঘুরেও শেষরক্ষা হল না প্রেমিকের",
-    "image": "https://bengali.cdn.zeenews.com/bengali/sites/default/files/2026/10/01/627354-rajasthan.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20261002162142.json",
-    "published_at": "2026-10-01T00:00:00Z"
-  },
-  {
-    "title": "ODI World Cup 2027 Fixture: প্রকাশিত ODI বিশ্বকাপের সূচি! ভারতের ম্য়াচ কবে, দেখে নিন",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/roko.jpg",
-    "category": "খেলাধুলা",
-    "json_link": "news/20261002162129.json",
-    "published_at": "2026-10-02T10:43:12Z"
-  },
-  {
-    "title": "যুবভারতীর পথে ভিনিশিয়াসরা",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69359/1790936927568.jpg",
-    "category": "খেলাধুলা",
-    "json_link": "news/20261002162118.json",
-    "published_at": "2026-10-02T15:58:00Z"
   }
 ]
