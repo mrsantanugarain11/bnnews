@@ -1,5 +1,40 @@
 [
   {
+    "title": "এক চার্জে কলকাতা থেকে শিলিগুড়ি! Mercedes-Benz GLC Electric-এর বুকিং শুরু",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/mercedes-benz-glc-electric-bookings-open-715km-range-india-launch.jpg",
+    "category": "বাণিজ্য",
+    "json_link": "news/20261006042223.json",
+    "published_at": "2026-10-05T21:30:17Z"
+  },
+  {
+    "title": "সুপ্রিম কোর্টে তিন নতুন মুখ, কর্মরত বিচারপতির সংখ্যা বেড়ে 37",
+    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/05-10-2026/1200-675-27796949-thumbnail-16x9-mg-aspera.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261006042207.json",
+    "published_at": "2026-10-05T16:41:02Z"
+  },
+  {
+    "title": "ছবিগুলিতে জাতীয় সিনেমা পুরস্কার — মামুটি — কার্তিক আরিয়ান — ইয়ামি গৌতম এবং আরও সম্মানিত।",
+    "image": "https://filmfare.wwmindia.com/content/2026/sep/nationalawardsthuu1790080006.jpg",
+    "category": "বিনোদন",
+    "json_link": "news/20261006042154.json",
+    "published_at": "2026-10-05T01:37:33Z"
+  },
+  {
+    "title": "Maldives on Indian Help: 'ভারতকে ছাড়া বাঁচতে পারব না', বাংলাদেশে দাঁড়িয়ে তারেকদের আয়না দেখাল মুসলিম দেশ",
+    "image": "https://www.hindustantimes.com/ht-img/img/2026/10/05/1600x900/Mohamed_Nasheed_1791224669271_THl7_1791224682937_is6G_3c82b0c6-b562-4f4a-863d-1af4a06ee011_2ZR7.jpg",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20261006042144.json",
+    "published_at": "2026-10-05T18:29:11Z"
+  },
+  {
+    "title": "ভারতে এক মাসের জন্য বিনামূল্যে ChatGPT Plus, কীভাবে পাবেন অফার",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/chatgpt-plus-free-one-month-offer-india-eligibility-how-to-claim.jpg",
+    "category": "লাইফস্টাইল ও রাশিফল",
+    "json_link": "news/20261006042128.json",
+    "published_at": "2026-10-06T03:30:57Z"
+  },
+  {
     "title": "Suvendu Adhikari: এবার কলকাতা থেকে ইংল্যান্ড-ইউরোপে সরাসরি বিমান? বাংলায় নতুন দিশা দেখালেন CM",
     "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Suvendu-on-Ration.jpg",
     "category": "কলকাতা",
@@ -663,40 +698,5 @@
     "category": "বিনোদন",
     "json_link": "news/20261005092123.json",
     "published_at": "2026-10-05T09:13:00Z"
-  },
-  {
-    "title": "শনিবার শেষ পিরিয়ডে বাংলার মাধ্যমিক বিদ্যালয়ে আর্থিক শিক্ষার ক্লাস",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/west-bengal-schools-financial-education-class-classes-6-to-10.jpg",
-    "category": "রাজ্য",
-    "json_link": "news/20261005082240.json",
-    "published_at": "2026-10-04T19:45:22Z"
-  },
-  {
-    "title": "'ডিজিটাল যৌন নিপীড়নের সমতুল্য’, জুনিয়র এনটিআর-জাহ্নবীর গানের দৃশ্য বিকৃত প্রসঙ্গে বিজয়",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/10/03/1600x900/WhatsApp_Image_2026-10-03_at_9.23.31_PM_1791042823543_8xa6_1791042835537_vc8U_fbacdcfd-f99b-40af-af40-3f4ef896919b_DUMZ.jpeg",
-    "category": "বিনোদন",
-    "json_link": "news/20261005082218.json",
-    "published_at": "2026-10-03T17:07:16Z"
-  },
-  {
-    "title": "দেশ ছাড়ার নির্দেশ উপেক্ষা ! দুই ইরানি কূটনীতিককে 'ঘাড়ধাক্কা' আমেরিকার",
-    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/04-10-2026/1200-675-27784834-thumbnail-16x9-image-aspera.jpg",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20261005082158.json",
-    "published_at": "2026-10-04T06:47:01Z"
-  },
-  {
-    "title": "ছবিগুলিতে জাতীয় সিনেমা পুরস্কার — মামুটি — কার্তিক আরিয়ান — ইয়ামি গৌতম এবং আরও সম্মানিত।",
-    "image": "https://filmfare.wwmindia.com/content/2026/sep/nationalawardsthuu1790080006.jpg",
-    "category": "বিনোদন",
-    "json_link": "news/20261005082137.json",
-    "published_at": "2026-10-05T01:37:33Z"
-  },
-  {
-    "title": "নির্বাচনের ভিডিয়ো ঘিরে বিতর্ক",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69719/1791133760282.jfif",
-    "category": "জাতীয়",
-    "json_link": "news/20261005082121.json",
-    "published_at": "2026-10-05T08:00:00Z"
   }
 ]
