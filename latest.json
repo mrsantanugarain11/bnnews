@@ -1,5 +1,40 @@
 [
   {
+    "title": "Suvendu Adhikari: এবার কলকাতা থেকে ইংল্যান্ড-ইউরোপে সরাসরি বিমান? বাংলায় নতুন দিশা দেখালেন CM",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Suvendu-on-Ration.jpg",
+    "category": "কলকাতা",
+    "json_link": "news/20261006032227.json",
+    "published_at": "2026-10-05T10:07:49Z"
+  },
+  {
+    "title": "Supreme Court: ‘মায়ের খুব করুণ অবস্থা’, সাড়ে ৩ বছরের সন্তানকে ফেরাতে কড়া অবস্থান সুপ্রিম কোর্টের",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Large-image-supreme-court-41.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261006032215.json",
+    "published_at": "2026-10-05T18:25:35Z"
+  },
+  {
+    "title": "ভারতীয় ফুটবলের উন্নতির পথ দেখালেন, মঙ্গলে জয় চাইছেন ফোরলান",
+    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/05-10-2026/1200-675-27796106-thumbnail-16x9-football-aspera.jpg",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261006032203.json",
+    "published_at": "2026-10-05T14:10:34Z"
+  },
+  {
+    "title": "Messi GOAT Tour: শুভেন্দুর উপহার পেয়ে কী বলছেন ওঁরা?",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Messi-1.jpg",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261006032147.json",
+    "published_at": "2026-10-05T15:06:14Z"
+  },
+  {
+    "title": "এআই প্রযুক্তির ক্ষেপণাস্ত্র পরীক্ষা কিমের, বাড়ছে প্রতিরক্ষা উদ্বেগ",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/north-korea-ai-guided-missile-test-kim-jong-un-defence-concerns.jpg",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20261006032128.json",
+    "published_at": "2026-10-06T03:15:54Z"
+  },
+  {
     "title": "Behala FTO and 2nd Kolkata Airport: রাফালের কাছেই নামবে সাধারণ বিমান! বেহালায় FTO, কলকাতায় দ্বিতীয় এয়ারপোর্টের ভাবনা",
     "image": "https://www.hindustantimes.com/ht-img/img/2026/10/05/1600x900/Gemini_Generated_Image_flpqhflpqhflpqhf_1791192253_1791192273015_yQrx_1791192273202_HobT_3632457d-27af-4615-b5f8-69795f9fd667_FTIF.png",
     "category": "কলকাতা",
@@ -663,40 +698,5 @@
     "category": "জাতীয়",
     "json_link": "news/20261005082121.json",
     "published_at": "2026-10-05T08:00:00Z"
-  },
-  {
-    "title": "AI czar: US-র এআই জার হিসেবে জে ক্লেটনকে নিয়োগ ট্রাম্পের, নেতৃত্বে নতুন টাস্ক ফোর্স",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/10/04/1600x900/FILES-US-POLITICS-AI-CLAYTON-2_1791094757296_euWq_1791094774432_y4Xm_6240def8-54ce-45b2-8169-06f2e9783216_YKF9.jpg",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20261005072156.json",
-    "published_at": "2026-10-04T06:22:13Z"
-  },
-  {
-    "title": "‘ওদের মাথায় রাখা উচিত বাড়িতে আরশোলা হলে বেগন স্প্রে থাকে’, ককরোচদের হুঁশিয়ারি কৌস্তভের",
-    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/10/New-Project-2026-10-04T164948.419.webp",
-    "category": "রাজ্য",
-    "json_link": "news/20261005072143.json",
-    "published_at": "2026-10-04T11:20:30Z"
-  },
-  {
-    "title": "SC Judge Ujjal Bhuyan: ‘নিজের দেশেই দ্বিতীয় শ্রেণির নাগরিক করে তোলা’, এসআইআরে নাম বাদ নিয়ে সরব সুপ্রিম কোর্টের বিচারপতি উজ্জ্বল ভুঁইয়া, কে তিনি?",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/judge-ujjal-bhuyan.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20261005072133.json",
-    "published_at": "2026-10-05T01:25:03Z"
-  },
-  {
-    "title": "LIVE Update: পুলিসের বড়সড় সাফল্য! আড়াই লক্ষ টাকার মোবাইল উদ্ধার, গ্রেফতার ২",
-    "image": "https://bengali.cdn.zeenews.com/bengali/sites/default/files/2026/10/03/breakingnews-thumbnail.jpg.jpeg",
-    "category": "রাজ্য",
-    "json_link": "news/20261005072126.json",
-    "published_at": "2026-10-03T00:00:00Z"
-  },
-  {
-    "title": "এশিয়ান গেমসে সোনাজয়ী দুই মিজ়ো-কন্যা",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69718/1791133139393.jpeg",
-    "category": "খেলাধুলা",
-    "json_link": "news/20261005072117.json",
-    "published_at": "2026-10-05T07:00:00Z"
   }
 ]
