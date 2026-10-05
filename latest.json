@@ -1,5 +1,40 @@
 [
   {
+    "title": "IndiGo Fair Charge: ভাড়া বাড়াচ্ছে ইন্ডিগো, কত দূরত্বে কত টাকা বেশি দেবেন, দেখুন",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/indigo.jpg",
+    "category": "বাণিজ্য",
+    "json_link": "news/20261005182218.json",
+    "published_at": "2026-10-05T12:08:49Z"
+  },
+  {
+    "title": "‘অপরাধীদের মনে মৃত্যু ভয় ধরাতে হবে’, ধর্ষণ ঠেকাতে নয়া নির্দেশ সুপ্রিম কোর্টের",
+    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2024/08/Supreme-Court.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261005182204.json",
+    "published_at": "2026-10-05T12:31:53Z"
+  },
+  {
+    "title": "Dooars: ডুয়ার্সে বেপরোয়া গাড়ির ধাক্কায় প্রাণ গেল চিতাবাঘের",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Leopard-5.jpg",
+    "category": "জেলা",
+    "json_link": "news/20261005182150.json",
+    "published_at": "2026-10-04T15:48:48Z"
+  },
+  {
+    "title": "ভারতীয় পাইলট ক্যাপ্টেন স্মিত মচ্ছরের সাহসের স্বীকৃতি",
+    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/10/Captain-Smit-Machchhar-1.webp",
+    "category": "জাতীয়",
+    "json_link": "news/20261005182133.json",
+    "published_at": "2026-10-05T11:10:12Z"
+  },
+  {
+    "title": "কুনোয় পাঁচটি চিতা শাবকের জন্ম",
+    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69799/1791204079623.jpeg",
+    "category": "জাতীয়",
+    "json_link": "news/20261005182122.json",
+    "published_at": "2026-10-05T18:15:00Z"
+  },
+  {
     "title": "ভূপেন হাজারিকার জন্মশতবর্ষে KIFF-এর বিশেষ উদ্যোগ, পর্দায় ফিরবে কিংবদন্তির সৃষ্টি",
     "image": "https://cf-images.assettype.com/eisamay/2026-10-05/r4917lwz/New-Project-64.webp",
     "category": "বিনোদন",
@@ -663,40 +698,5 @@
     "category": "আন্তর্জাতিক",
     "json_link": "news/20261004232118.json",
     "published_at": "2026-10-04T23:05:00Z"
-  },
-  {
-    "title": "6 মাসের মধ্যে রাজ্যে লাগু UCC, 'লাভ জিহাদ' রুখতে আসছে আইন, ঘোষণা শুভেন্দুর",
-    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/04-10-2026/1200-675-27787204-thumbnail-16x9-suvendu1-aspera.jpg",
-    "category": "রাজ্য",
-    "json_link": "news/20261004222229.json",
-    "published_at": "2026-10-04T13:04:41Z"
-  },
-  {
-    "title": "নেহাকে আটক করল পুলিশ, অজ্ঞাত জায়গায় নিয়ে যাওয়ার দাবি AISA-র, দিল্লিতে চূড়ান্ত ‘নাটক’",
-    "image": "https://cf-images.assettype.com/eisamay/2026-10-04/r0lapint/Neha-Bora-Detained.webp",
-    "category": "জাতীয়",
-    "json_link": "news/20261004222215.json",
-    "published_at": "2026-10-04T14:02:57Z"
-  },
-  {
-    "title": "CEC resignation protest: জ্ঞানেশের পদত্যাগের দাবিতে উত্তাল রাজধানী, আপ নেতা-সহ বহু আটক, আন্দোলিত মুম্বই",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/ANI-20261002294-0_1790945454367_i8i4_1790945470641_3Iyj_8d0d307f-17fa-46fb-ac29-ecf4b1beaab4_og7c.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20261004222157.json",
-    "published_at": "2026-10-02T13:57:53Z"
-  },
-  {
-    "title": "বিশাল কাইথের জোড়া সেভে শিল্ড ফাইনালে মোহনবাগান",
-    "image": "https://i0.wp.com/najarbandi.in/wp-content/uploads/2026/10/mohun-bagan-vishal-kaith-ifa-shield.webp.webp",
-    "category": "খেলাধুলা",
-    "json_link": "news/20261004222142.json",
-    "published_at": "2026-10-04T14:34:43Z"
-  },
-  {
-    "title": "প্রতিবাদ মিছিলে সিপিএম",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69714/1791132408090.jpeg",
-    "category": "রাজ্য",
-    "json_link": "news/20261004222118.json",
-    "published_at": "2026-10-04T22:15:00Z"
   }
 ]
