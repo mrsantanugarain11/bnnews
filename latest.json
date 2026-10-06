@@ -1,5 +1,40 @@
 [
   {
+    "title": "Lionel Messi: ফেয়ারওয়েল নয়, মেসিকে বেনিনের বিরুদ্ধে খেলিয়ে লক্ষ টাকা আয়ের ভাবনা ফেডারেশনের?",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/messi-2.jpg",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261006192217.json",
+    "published_at": "2026-10-06T13:27:33Z"
+  },
+  {
+    "title": "আইপিএলে আবার সৌরভ গঙ্গোপাধ্যায়, এ বার দিল্লির হেড কোচ!",
+    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/09/New-Project-2026-09-11T132523.214.webp",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261006192206.json",
+    "published_at": "2026-10-06T13:23:38Z"
+  },
+  {
+    "title": "Dooars: ডুয়ার্সে বেপরোয়া গাড়ির ধাক্কায় প্রাণ গেল চিতাবাঘের",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Leopard-5.jpg",
+    "category": "জেলা",
+    "json_link": "news/20261006192155.json",
+    "published_at": "2026-10-04T15:48:48Z"
+  },
+  {
+    "title": "ভারত বনাম উরুগুয়ে",
+    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69972/1791293496954.png",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261006192140.json",
+    "published_at": "2026-10-06T19:05:00Z"
+  },
+  {
+    "title": "ভারতের সামুদ্রিক শক্তি বৃদ্ধি, দেশীয় প্রযুক্তিতে তৈরি ফ্লিট সাপোর্ট শিপ উদ্বোধন করলেন রাজনাথ",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/Rajnath-Singh.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261006192125.json",
+    "published_at": "2026-10-06T19:05:44Z"
+  },
+  {
     "title": "আজই শেষ! আর্জেন্টিনার জার্সিতে মেসির শেষ ম্যাচ, কোথায় দেখবেন লাইভ?",
     "image": "https://i0.wp.com/najarbandi.in/wp-content/uploads/2026/10/lionel-messi-last-argentina-match-benin.webp.webp",
     "category": "খেলাধুলা",
@@ -663,40 +698,5 @@
     "category": "বাণিজ্য",
     "json_link": "news/20261006002120.json",
     "published_at": "2026-10-06T00:02:32Z"
-  },
-  {
-    "title": "উৎসবের মরসুমে ফের পতন সোনা-রুপোর দামে, জেনে নিন সর্বশেষ দাম",
-    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/05-10-2026/1200-675-27794455-thumbnail-16x9-gold.jpg",
-    "category": "বাণিজ্য",
-    "json_link": "news/20261005232351.json",
-    "published_at": "2026-10-05T11:16:01Z"
-  },
-  {
-    "title": "বাড়ল জেট ফুয়েলের দাম! আগামীকাল থেকে ভাড়া বাড়ছে INDIGO র",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/indigo.jpg",
-    "category": "বাণিজ্য",
-    "json_link": "news/20261005232332.json",
-    "published_at": "2026-10-05T10:41:34Z"
-  },
-  {
-    "title": "গ্রেফতারি যথেষ্ট নয় ! যৌন নিপীড়ন রুখতে অপরাধীদের মনে ভয়ের সঞ্চার করতে বলল সুপ্রিম কোর্ট",
-    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/05-10-2026/1200-675-27794576-thumbnail-16x9-sc-aspera.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20261005232313.json",
-    "published_at": "2026-10-05T12:04:27Z"
-  },
-  {
-    "title": "দশ বছর পর কলকাতায় ফিরে উরুগুয়েকে সতর্ক করলেন দিয়েগো ফোরলান, ‘সময়, জায়গা দিলে ভারত বিপদে ফেলতে পারে’",
-    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/10/Forlan.webp",
-    "category": "খেলাধুলা",
-    "json_link": "news/20261005232232.json",
-    "published_at": "2026-10-05T14:58:23Z"
-  },
-  {
-    "title": "Honda XR300L ও XR300 Rally-এর দাম ঘোষণা, বুকিংও শুরু ভারতে",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/honda-xr300l-xr300-rally-price-booking-india-1-83-lakh.jpg",
-    "category": "বাণিজ্য",
-    "json_link": "news/20261005232218.json",
-    "published_at": "2026-10-05T23:00:55Z"
   }
 ]
