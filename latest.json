@@ -1,5 +1,40 @@
 [
   {
+    "title": "আন্তর্জাতিক মাদক চক্র ফাঁস, জম্মুতে ধৃত ২",
+    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69911/1791272050497.jfif",
+    "category": "জাতীয়",
+    "json_link": "news/20261006132214.json",
+    "published_at": "2026-10-06T13:03:00Z"
+  },
+  {
+    "title": "‘ভোট চোর, গদি ছোড়’ স্লোগানে কাঁপছে দিল্লি, ECI-এর সামনে রাহুল-অভিষেকদের নেতৃত্বে ধরনা",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/rahul15.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261006132202.json",
+    "published_at": "2026-10-06T12:57:24Z"
+  },
+  {
+    "title": "Abhishek on Gyanesh Kumar: ‘চোর জ্ঞানেশ কুমারের পদত্যাগ নয়, গ্রেফতারি চাই’, দিল্লিতে হাঁটতে-হাঁটতে বললেন অভিষেক",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Abhishek-Banerjee-88.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261006132150.json",
+    "published_at": "2026-10-06T06:18:28Z"
+  },
+  {
+    "title": "Harmanpreet Kaur: ভারতীয় ক্রিকেটে পালাবদল, অধিনায়কের পদ থেকে সরে দাঁড়ালেন হরমনপ্রীত কৌর",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/harmanpreet-kaur.jpg",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261006132138.json",
+    "published_at": "2026-10-06T06:13:15Z"
+  },
+  {
+    "title": "মহারাষ্ট্রের রেশন ব্যবস্থায় বিপ্লব! নাসিকে চালু হচ্ছে গ্রেইন এটিএম",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/grain-atm.jpg",
+    "category": "জাতীয়",
+    "json_link": "news/20261006132125.json",
+    "published_at": "2026-10-06T13:07:48Z"
+  },
+  {
     "title": "দামি বিমানের জ্বালানি, ভাড়া বাড়াচ্ছে ইন্ডিগো",
     "image": "https://cf-images.assettype.com/eisamay/2026-10-06/wr2wtrrg/iStock-2238612225.jpg",
     "category": "বাণিজ্য",
@@ -663,40 +698,5 @@
     "category": "জাতীয়",
     "json_link": "news/20261005182122.json",
     "published_at": "2026-10-05T18:15:00Z"
-  },
-  {
-    "title": "ভূপেন হাজারিকার জন্মশতবর্ষে KIFF-এর বিশেষ উদ্যোগ, পর্দায় ফিরবে কিংবদন্তির সৃষ্টি",
-    "image": "https://cf-images.assettype.com/eisamay/2026-10-05/r4917lwz/New-Project-64.webp",
-    "category": "বিনোদন",
-    "json_link": "news/20261005172217.json",
-    "published_at": "2026-10-05T11:12:56Z"
-  },
-  {
-    "title": "Supreme Court on Congress Candidate: ‘২০০৭ সালের ঘটনা, এতদিন কী করছিলেন? পুলিশের বিরুদ্ধে ব্যবস্থা নেওয়া উচিত’, মিলন ভোটে লড়বেন, নির্দেশ প্রধান বিচারপতির",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Supreme-Court-16.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20261005172159.json",
-    "published_at": "2026-10-05T08:23:27Z"
-  },
-  {
-    "title": "Bus service: অনির্দিষ্টকালের জন্য কর্মবিরতির ডাক বাস চালকদের",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Bus-serviece-.jpg",
-    "category": "জেলা",
-    "json_link": "news/20261005172148.json",
-    "published_at": "2026-10-05T11:32:32Z"
-  },
-  {
-    "title": "বাংলাদেশের প্রাক্তন প্রধানমন্ত্রী শেখ হাসিনার প্রত্যর্পণ",
-    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2025/06/Sheikh-Hasina.jpg",
-    "category": "আন্তর্জাতিক",
-    "json_link": "news/20261005172133.json",
-    "published_at": "2026-10-05T11:13:49Z"
-  },
-  {
-    "title": "১৪ হাজারে বেশি নয়া পদে অনুমোদন",
-    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69789/1791200085688.jpg",
-    "category": "রাজ্য",
-    "json_link": "news/20261005172120.json",
-    "published_at": "2026-10-05T17:15:00Z"
   }
 ]
