@@ -1,5 +1,40 @@
 [
   {
+    "title": "হরমুজে ফের জাহাজে হামলা, আহত ১১ ভারতীয় নাবিক! কড়া নিন্দা দিল্লির",
+    "image": "https://i0.wp.com/najarbandi.in/wp-content/uploads/2026/10/hormuz-ship-attack-indian-sailors.webp.webp",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20261006212231.json",
+    "published_at": "2026-10-06T15:39:38Z"
+  },
+  {
+    "title": "দিল্লি পুলিশের হাতে আটক রাহুলরা",
+    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69985/1791298266035.jpeg",
+    "category": "জাতীয়",
+    "json_link": "news/20261006212214.json",
+    "published_at": "2026-10-06T20:20:00Z"
+  },
+  {
+    "title": "উইংয়ে শক্তি বাড়াতে ইয়াসিরকে ছিনিয়ে নিল দক্ষিণের ফুটবল দল",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/kerala-blasters-sign-mohammed-yasir-from-fc-goa-winger.jpg",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261006212159.json",
+    "published_at": "2026-10-05T18:10:57Z"
+  },
+  {
+    "title": "&#8216;চিনের মত হুমকি দেয় না ভারত!&#8217; প্রশংসায় সিঙ্গাপুরের প্রাক্তন বিদেশমন্ত্রী",
+    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/george-YEO.jpg",
+    "category": "আন্তর্জাতিক",
+    "json_link": "news/20261006212143.json",
+    "published_at": "2026-10-06T19:21:12Z"
+  },
+  {
+    "title": "বাগেশ্বর ধামে যৌন কেলেঙ্কারিতে তদন্তের নির্দেশ",
+    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69991/1791301460397.webp",
+    "category": "জাতীয়",
+    "json_link": "news/20261006212122.json",
+    "published_at": "2026-10-06T21:15:00Z"
+  },
+  {
     "title": "PM Modi: ২৫ বছর নিরবিচ্ছিন্ন নেতৃত্ব, মোদীকে অভিনন্দন জানিয়ে প্রস্তাব পাশ কেন্দ্রীয় মন্ত্রিসভার",
     "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/PM-Narendra-Modi.jpg",
     "category": "জাতীয়",
@@ -663,40 +698,5 @@
     "category": "বাণিজ্য",
     "json_link": "news/20261006022124.json",
     "published_at": "2026-10-06T02:00:56Z"
-  },
-  {
-    "title": "ফ্লাইটের জ্বালানি সারচার্জ বাড়াচ্ছে IndiGo, কত টাকা বাড়তে চলেছে বিমানভাড়া ?",
-    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/05-10-2026/1200-675-27793413-thumbnail-16x9-indigo.jpg",
-    "category": "বাণিজ্য",
-    "json_link": "news/20261006012239.json",
-    "published_at": "2026-10-05T10:17:07Z"
-  },
-  {
-    "title": "স্পোর্টিং ক্লাব দিল্লি থেকে এই মিজো ফুটবলারকে দলে টানল কেরালা",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/kerala-blasters-sign-ramlungchhunga-mar-from-sporting-club-delhi.jpg",
-    "category": "খেলাধুলা",
-    "json_link": "news/20261006012226.json",
-    "published_at": "2026-10-06T00:22:35Z"
-  },
-  {
-    "title": "রাজ্য়ের নাম বদল ! তিন ভাষাতেই 'পশ্চিমবঙ্গ' করার প্রস্তাব",
-    "image": "https://imgs.etvbharat.com/etvbharat/prod-images/05-10-2026/1200-675-27797144-thumbnail-16x9-samik-aspera.jpg",
-    "category": "রাজ্য",
-    "json_link": "news/20261006012201.json",
-    "published_at": "2026-10-05T16:28:50Z"
-  },
-  {
-    "title": "ভারতের প্রতিরক্ষা উৎপাদনে বড় মাইলস্টোন, একদিনে নৌ ও বিমান প্রকল্পে অগ্রগতি",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/rajnath-singh-launch-first-fleet-support-ship-vizag-hal-aero-engine.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20261006012148.json",
-    "published_at": "2026-10-05T17:12:59Z"
-  },
-  {
-    "title": "BMW 3 Series থেকে বাদ ডিজেল, G50-এ পেট্রোল ও ইলেকট্রিক",
-    "image": "https://kolkata24x7.in/wp-content/uploads/2026/10/bmw-3-series-g50-diesel-discontinued-petrol-electric-i3.jpg",
-    "category": "বাণিজ্য",
-    "json_link": "news/20261006012128.json",
-    "published_at": "2026-10-06T01:00:40Z"
   }
 ]
