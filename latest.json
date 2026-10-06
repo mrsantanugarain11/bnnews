@@ -1,5 +1,40 @@
 [
   {
+    "title": "দামি বিমানের জ্বালানি, ভাড়া বাড়াচ্ছে ইন্ডিগো",
+    "image": "https://cf-images.assettype.com/eisamay/2026-10-06/wr2wtrrg/iStock-2238612225.jpg",
+    "category": "বাণিজ্য",
+    "json_link": "news/20261006122228.json",
+    "published_at": "2026-10-06T05:56:51Z"
+  },
+  {
+    "title": "বিরোধীদের মিছিল আটকাতে দিল্লি জুড়ে মোতায়েন ৩০০০ পুলিশকর্মী",
+    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/10/SIR.webp",
+    "category": "জাতীয়",
+    "json_link": "news/20261006122208.json",
+    "published_at": "2026-10-06T11:35:00Z"
+  },
+  {
+    "title": "Yami Gautam and Aditya Dhar: হিমাচলে পাকাপাকিভাবে থাকতে যাচ্ছেন ইয়ামি-আদিত্য? প্রকাশ্যে আসল সত্যি",
+    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/yami-himachal.jpg",
+    "category": "বিনোদন",
+    "json_link": "news/20261006122157.json",
+    "published_at": "2026-10-06T06:34:34Z"
+  },
+  {
+    "title": "বিশ্বকাপ জিতিয়েই বিদায়! সব ফরম্যাটের নেতৃত্ব ছাড়লেন হরমনপ্রীত কউর",
+    "image": "https://i0.wp.com/najarbandi.in/wp-content/uploads/2026/10/harmanpreet-kaur-steps-down-captain.webp",
+    "category": "খেলাধুলা",
+    "json_link": "news/20261006122139.json",
+    "published_at": "2026-10-06T06:17:05Z"
+  },
+  {
+    "title": "প্রয়াত বিভা সেনগুপ্ত",
+    "image": "https://www.aaroananda.com/cdn-cgi/image/width=1200,height=675,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/69902/1791268431071.jpg",
+    "category": "বিনোদন",
+    "json_link": "news/20261006122124.json",
+    "published_at": "2026-10-06T12:07:00Z"
+  },
+  {
     "title": "কলকাতায় আজ পেট্রোল-ডিজেলের দাম কত? জানুন ৬ অক্টোবরের জ্বালানির দর",
     "image": "https://kolkata24x7.in/wp-content/uploads/2024/06/petrol-2.jpg",
     "category": "কলকাতা",
@@ -663,40 +698,5 @@
     "category": "রাজ্য",
     "json_link": "news/20261005172120.json",
     "published_at": "2026-10-05T17:15:00Z"
-  },
-  {
-    "title": "Cristiano Ronaldo: ‘রোনাল্ডোর জন্য দলের দরজা সর্বদা খোলা…’, বড় কথা পর্তুগাল কোচ জেসুসের",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/portugal.jpg",
-    "category": "খেলাধুলা",
-    "json_link": "news/20261005162206.json",
-    "published_at": "2026-10-05T10:43:31Z"
-  },
-  {
-    "title": "Property Rules: বাবার সম্পত্তিতে ছেলের অধিকার থাকে, ছেলের সম্পত্তিতে কি বাবার অধিকার থাকে?",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/property-Rules-.jpg",
-    "category": "জাতীয়",
-    "json_link": "news/20261005162153.json",
-    "published_at": "2026-10-05T10:03:00Z"
-  },
-  {
-    "title": "‘এম্পারর ভার্সেস শরৎচন্দ্র’-র ট্রেলার শেয়ার করলেন অমিতাভ বচ্চন; সৃজিত মুখোপাধ্যায়ের পুজোর ছবিকে ঘিরে জাতীয় �",
-    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-04T183417.544.webp",
-    "category": "বিনোদন",
-    "json_link": "news/20261005162141.json",
-    "published_at": "2026-10-04T18:34:52Z"
-  },
-  {
-    "title": "MLA Vote and Presidential Election: রাষ্ট্রপতি নির্বাচনে আপনার MLA-কে দেওয়ার ভোটের ভূমিকা থাকে, জানতেন কি?",
-    "image": "https://images.tv9bangla.com/wp-content/uploads/2026/10/Your-vote-for-an-MLA-can-help-choose-India-President.jpeg",
-    "category": "জাতীয়",
-    "json_link": "news/20261005162131.json",
-    "published_at": "2026-10-05T10:15:18Z"
-  },
-  {
-    "title": "৮ ঘণ্টার ঘুমই শেষ কথা নয়, মস্তিষ্ক সুস্থ রাখতে জরুরি স্ট্রেস নিয়ন্ত্রণ",
-    "image": "https://www.dainikstatesmannews.com/wp-content/uploads/2026/10/stress.webp",
-    "category": "লাইফস্টাইল ও রাশিফল",
-    "json_link": "news/20261005162116.json",
-    "published_at": "2026-10-05T15:55:48Z"
   }
 ]
